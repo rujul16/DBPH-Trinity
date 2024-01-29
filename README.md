@@ -7,7 +7,7 @@ This repo currently consists of three features to bust Dark Patterns
 3. Fake News Detector - It helps the consumer to be more aware about the current trends and protect them false news which may try to influence them to make certain assumptions and purchases
 
 Rujul Pritwani - 2022UIC3502<br/>
-Pritish Mahajan - 2022UIC3506
-Shreyaa Jalan - 2022UIC3517
-Revant Bhatia - 2022UIC3546
+Pritish Mahajan - 2022UIC3506<br/>
+Shreyaa Jalan - 2022UIC3517<br/>
+Revant Bhatia - 2022UIC3546<br/>
 Harsh Kukreja - 2022UIC3552
